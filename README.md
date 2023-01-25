@@ -1,4 +1,5 @@
-finalpro:Future Ready Talent Project By Guduru Bharat Kumar
+finalpro:Future Ready Talent Project By paleti manikanta
+
 Industry : Lifestyle
 
 Project Title : music
@@ -9,9 +10,16 @@ Project Description : in this music project we have to following the sub templat
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : 
+azure services
 
-App Services URL : 
+<img width="471" alt="image" src="https://user-images.githubusercontent.com/112375606/214540412-ab6cdc48-141d-4323-8fdf-2cdb44fa5b4a.png">
+<img width="864" alt="image" src="https://user-images.githubusercontent.com/112375606/214533469-7a37d117-e4cd-4c54-86d6-8d6956e4d0df.png">
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/112375606/214540226-f3fd7085-c656-406a-aef0-99d163d27338.png">
+
+
+Static Web App URL : https://kind-rock-0a8f48d00.2.azurestaticapps.net/
+
+App Services URL : https://music123.azurewebsites.net/
 
 My Website Link: https://manikanta1325.github.io/music/
 
@@ -40,5 +48,3 @@ Contact US
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/112375606/214268839-d74daea7-a1b6-4ad0-9d10-d1bbc486c7ef.png">
 <img width="874" alt="image" src="https://user-images.githubusercontent.com/112375606/214268877-d5e24203-85d4-4e66-b183-33eeab0e4c6a.png">
 
-
-Azure Services
